@@ -1,9 +1,9 @@
 let num = "33721",
-    proizved = num[0] * num [1] * num[2] * num[3] * num[4];
+    multiply = num[0] * num [1] * num[2] * num[3] * num[4];
 
-    console.log(proizved);
+    console.log(multiply);
 
-let stenen = String(proizved ** 3); 
+let expon = String(multiply ** 3); 
    
 
-alert(stenen[0] + stenen[1]);
+alert(expon[0] + expon[1]);
